@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">🤖 Interested in AI, Machine Learning & Full-Stack Development<br>📚Currently learning React, FastAPI and building AI-powered applications<br>🚀 Open Source Contributor (GSSoC)<br>🎲</p>
+<p data-importer="text" align="left">🤖 Interested in AI, Machine Learning & Full-Stack Development<br>📚Currently learning React, FastAPI and building AI-powered applications<br>🚀 Open Source Contributor (GSSoC)<br></p>
 
 ###
 
